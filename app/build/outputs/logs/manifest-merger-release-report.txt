@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.play:core:1.3.4] /Users/bionworks/.gradle/caches/transforms-1/files-1.1/core-1.3.4.aar/e4972ce2af802dbcd8a8291873823683/AndroidManifest.xml:2:1-6:12
+MERGED from [:CordovaLib] /Users/bionworks/Office/appbundle/platforms/android/CordovaLib/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:20:1-25:12
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:102-132
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:133-191
+	android:versionCode
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:20:5-67
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:5:5-12:19
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:33:5-20
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:33:5-20
+	android:supportsRtl
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#com.bionworks.tokbox.MainActivity
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:14:5-65
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:19:5-65
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:15:5-71
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:21:5-71
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:17:5-80
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:22:5-80
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:17:22-77
+uses-feature#android.hardware.camera
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:18:5-84
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:27:5-60
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:27:5-60
+	android:required
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:18:58-81
+		MERGED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:18:58-81
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:18:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:19:5-95
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:28:5-70
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:28:5-70
+	android:required
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:19:68-92
+		MERGED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:19:68-92
+	android:name
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:19:19-67
+uses-sdk
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.play:core:1.3.4] /Users/bionworks/.gradle/caches/transforms-1/files-1.1/core-1.3.4.aar/e4972ce2af802dbcd8a8291873823683/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.3.4] /Users/bionworks/.gradle/caches/transforms-1/files-1.1/core-1.3.4.aar/e4972ce2af802dbcd8a8291873823683/AndroidManifest.xml:4:3-70
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:5-11:41
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12 reason: org.apache.cordova has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12 reason: org.apache.cordova has a targetSdkVersion < 4
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:25:5-75
+MERGED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:25:5-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/bionworks/Office/appbundle/platforms/android/app/src/main/AndroidManifest.xml:2:1-20:12 reason: org.apache.cordova requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:24:22-72
+uses-feature#0x00020000
+ADDED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:29:5-31:35
+	android:glEsVersion
+		ADDED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:30:9-41
+	android:required
+		ADDED from [:tokbox] /Users/bionworks/Office/appbundle/platforms/android/tokbox/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:31:9-32

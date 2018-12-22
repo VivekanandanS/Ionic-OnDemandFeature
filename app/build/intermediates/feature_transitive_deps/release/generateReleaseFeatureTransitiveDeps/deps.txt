@@ -1,0 +1,3 @@
+:CordovaLib::release
+com.google.android.play:core
+com.android.support:support-annotations

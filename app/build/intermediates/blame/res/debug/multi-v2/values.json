@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bionworks/Office/appbundle/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/bionworks/Office/appbundle/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "162,55,103,226",
+                        "endColumns": "63,47,58,47",
+                        "endOffsets": "221,98,157,269"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,119,167,226",
+                        "endColumns": "63,47,58,47",
+                        "endOffsets": "114,162,221,269"
+                    }
+                }
+            ]
+        }
+    ]
+}
